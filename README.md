@@ -4,4 +4,4 @@ This repository contains a deep-learning based model to predict bus arrival time
 
 [Real-Time Bus Arrival Prediction: A Deep Learning Approach for Enhanced Urban Mobility] (https://arxiv.org/abs/2303.15495v3)
 
-In this study, we utilized the "New York City Bus Data" dataset from keggle.
+In this study, we utilized the "New York City Bus Data" dataset from Kaggle.
