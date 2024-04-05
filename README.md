@@ -4,6 +4,4 @@ In this study, we utilized the "New York City Bus Data" from Kaggle. This reposi
 
 [Real-Time Bus Arrival Prediction: A Deep Learning Approach for Enhanced Urban Mobility] (https://arxiv.org/abs/2303.15495v3)
 
-[Real-Time Bus Arrival Prediction: A Deep Learning Approach for Enhanced Urban Mobility] (https://www.scitepress.org/Link.aspx?doi=10.5220/0012365500003639)
-
 
